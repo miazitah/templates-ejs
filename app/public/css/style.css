@@ -1,12 +1,12 @@
 :root {
   --cor-fundo-pagina: #f8f9fa; /* Cor de fundo suave (cinza claro) */
-  --cor-cabecalho: #f7b7cdf1; /* Azul padrão (cor primária do Bootstrap) */
+  --cor-cabecalho: #f7b7cdf1; /* Azul padrão (cor primária do Bootstrap) -> Foi modificada para um rosa claro, não faço ideia de quem fez esta mudança. */
   --cor-navegacao: #ffe7e7; /* Cinza suave para a navegação */
-  --cor-botoes: #a09496; /* Verde de sucesso */
-  --cor-botoes-hover: #218838; /* Verde mais escuro para hover */
-  --cor-titulo: #ffffff; /* Cor escura para os títulos */
+  --cor-botoes: #a09496; /* Verde de sucesso -> Modificado para um tipo de cinza, desconheço quem a fez. */
+  --cor-botoes-hover: #464141; /* Verde mais escuro para hover -> Agora é um cinza mais escuro, modificado por Mia */
+  --cor-titulo: #222222; /* Cor escura para os títulos -> Alguém mudou para o branco padrão, eu estarei mudando-o para um branco um pouco menos claro */
   --cor-texto: #212529; /* Cor do texto principal */
-  --cor-texto-secundario: #6c757d; /* Cor suave para texto secundário */
+  --cor-texto-secundario: #6b7680; /* Cor suave para texto secundário -> Leve mudança na cor, por Mia (na verdade todas as mudanças após as setas [e includindo as setas] foram feitas pela Mia). */
   
   }
   
